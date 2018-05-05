@@ -2,4 +2,6 @@
 
 See `QKD.ipynb` for the demo.
 
-See `writeup.pdf` for the report. 
+See `QKD.html` for the experimental output.
+
+See `writeup.pdf` for the report.
